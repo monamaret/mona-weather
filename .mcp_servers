@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "pdf-md-mcp": {
+      "command": "pdf-md-mcp"
+    }
+  }
+}
